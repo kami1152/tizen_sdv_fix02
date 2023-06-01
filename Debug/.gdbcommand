@@ -1,0 +1,5 @@
+set sysroot D:/tizen/platforms/tizen-4.0/wearable/rootstraps/wearable-4.0-device.core
+set debug-file-directory D:/tizen/platforms/tizen-4.0/wearable/rootstraps/wearable-4.0-device.core/usr/lib/debug
+set solib-search-path C:/Users/kami1/Desktop/Sensor-Data-Collector-main/Debug
+dir D:/tizen/platforms/tizen-4.0/wearable/rootstraps/wearable-4.0-device.core/usr/src/debug
+sharedlibrary
